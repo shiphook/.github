@@ -1,45 +1,51 @@
 <!--
-  Shiphook org profile
+  Shiphook — org profile
   https://github.com/shiphook
 -->
 
 <div align="center">
   <img src="assets/wordmark-lockup.svg" alt="Shiphook" width="420" />
-  <br />
-  <p><strong>Indie product studio.</strong> We ship small tools that matter.</p>
+  <br /><br />
+  <p><strong>Shiphook</strong> — we ship small tools that matter.</p>
 </div>
 
 ---
 
-### What we build
+## What we ship
 
-Focused products for people who make things — developers first, product-shaped second. Small surface area. Sharp defaults. Ship, then cut.
+Small tools for people who make things. One job each. Ship, then cut.
 
-### How we work
+## Products
 
-- **One job per product** — no kitchen-sink platforms
-- **Ship over slide decks** — working software beats mockups
-- **Stay sharp** — subtract before you add
+_Nothing public yet._
 
-### Products
-
-_Nothing public yet._ When something ships, it lands here.
-
-<!-- Add repos as they go public, e.g.
-| Product | What it does |
+<!-- Later:
+| Product | Job |
 | --- | --- |
-| [name](https://github.com/shiphook/name) | one-line job |
+| [name](https://github.com/shiphook/name) | one line |
 -->
 
-### People
+## Values
 
-- [@shubhook](https://github.com/shubhook) — founder
+| | |
+| --- | --- |
+| **One job** | Each product does one thing |
+| **Ship** | Working software over decks |
+| **Cut** | Subtract before you add |
 
-### Links
+## Stack
 
-- Org → [github.com/shiphook](https://github.com/shiphook)
-- X → [@khakha_x](https://x.com/khakha_x)
+TypeScript · React · Tailwind · Vite
+
+## People
+
+- [@shubhook](https://github.com/shubhook)
+
+## Links
+
+- [github.com/shiphook](https://github.com/shiphook)
+- [@khakha_x](https://x.com/khakha_x)
 
 <div align="center">
-  <sub>slug <code>shiphook</code> · mark by Redline</sub>
+  <sub>Shiphook · <code>shiphook</code></sub>
 </div>
