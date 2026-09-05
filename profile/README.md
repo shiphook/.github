@@ -13,7 +13,7 @@
 
 ## What we ship
 
-Small tools for people who make things. One job each. Ship, then cut.
+Small tools for people who make things.
 
 ## Products
 
@@ -27,25 +27,16 @@ _Nothing public yet._
 
 ## Values
 
-| | |
-| --- | --- |
-| **One job** | Each product does one thing |
-| **Ship** | Working software over decks |
-| **Cut** | Subtract before you add |
+- **One job** — each product does one thing
+- **Ship** — working software over decks
+- **Cut** — subtract before you add
 
 ## Stack
 
 TypeScript · React · Tailwind · Vite
 
-## People
-
-- [@shubhook](https://github.com/shubhook)
-
 ## Links
 
 - [github.com/shiphook](https://github.com/shiphook)
+- [@shubhook](https://github.com/shubhook)
 - [@khakha_x](https://x.com/khakha_x)
-
-<div align="center">
-  <sub>Shiphook · <code>shiphook</code></sub>
-</div>
